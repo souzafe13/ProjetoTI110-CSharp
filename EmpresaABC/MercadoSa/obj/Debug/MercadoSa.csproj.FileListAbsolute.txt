@@ -1,0 +1,13 @@
+C:\Users\fernanda.msouza41\Documents\Visual Studio 2019\ProjetoTI-110Fernanda\EmpresaABC\MercadoSa\bin\Debug\MercadoSa.exe.config
+C:\Users\fernanda.msouza41\Documents\Visual Studio 2019\ProjetoTI-110Fernanda\EmpresaABC\MercadoSa\bin\Debug\MercadoSa.exe
+C:\Users\fernanda.msouza41\Documents\Visual Studio 2019\ProjetoTI-110Fernanda\EmpresaABC\MercadoSa\bin\Debug\MercadoSa.pdb
+C:\Users\fernanda.msouza41\Documents\Visual Studio 2019\ProjetoTI-110Fernanda\EmpresaABC\MercadoSa\obj\Debug\MercadoSa.csproj.AssemblyReference.cache
+C:\Users\fernanda.msouza41\Documents\Visual Studio 2019\ProjetoTI-110Fernanda\EmpresaABC\MercadoSa\obj\Debug\MercadoSa.frmLogin.resources
+C:\Users\fernanda.msouza41\Documents\Visual Studio 2019\ProjetoTI-110Fernanda\EmpresaABC\MercadoSa\obj\Debug\MercadoSa.frmMenuPrincipal.resources
+C:\Users\fernanda.msouza41\Documents\Visual Studio 2019\ProjetoTI-110Fernanda\EmpresaABC\MercadoSa\obj\Debug\MercadoSa.frmSplash.resources
+C:\Users\fernanda.msouza41\Documents\Visual Studio 2019\ProjetoTI-110Fernanda\EmpresaABC\MercadoSa\obj\Debug\MercadoSa.Properties.Resources.resources
+C:\Users\fernanda.msouza41\Documents\Visual Studio 2019\ProjetoTI-110Fernanda\EmpresaABC\MercadoSa\obj\Debug\MercadoSa.csproj.GenerateResource.cache
+C:\Users\fernanda.msouza41\Documents\Visual Studio 2019\ProjetoTI-110Fernanda\EmpresaABC\MercadoSa\obj\Debug\MercadoSa.csproj.CoreCompileInputs.cache
+C:\Users\fernanda.msouza41\Documents\Visual Studio 2019\ProjetoTI-110Fernanda\EmpresaABC\MercadoSa\obj\Debug\MercadoSa.exe
+C:\Users\fernanda.msouza41\Documents\Visual Studio 2019\ProjetoTI-110Fernanda\EmpresaABC\MercadoSa\obj\Debug\MercadoSa.pdb
+C:\Users\fernanda.msouza41\Documents\Visual Studio 2019\ProjetoTI-110Fernanda\EmpresaABC\MercadoSa\obj\Debug\MercadoSa.Form1.resources
